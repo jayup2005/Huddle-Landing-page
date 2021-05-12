@@ -1,0 +1,490 @@
+@media (max-width: 1000px){
+
+    .main{
+    
+        position: absolute;
+        top: 7rem;
+    
+    }
+    
+    .comp{
+        width: 45%
+    }
+    
+    .h1{
+    
+        font-size: 28px;
+    }
+    
+    .p1{
+    
+        font-size: 20px;
+    }
+    }
+    
+    @media (max-width: 910px){
+    
+        .h2{
+    
+            font-size: 28px
+        }
+    
+        .p2{
+    
+            font-size: 16px;
+        }
+    
+        .p1{
+            font-size: 18px;
+        }
+    }
+    @media(max-width: 750px){
+    
+        .main{
+    
+            position: absolute;
+            top: 4.5rem;
+        
+        
+        
+        }
+        
+    }
+    
+    
+    @media (max-width: 730px){
+    
+       
+        .comp{
+         
+            width: 95%;
+    
+    
+         }
+       
+        .h2{
+    
+            font-size: 28px
+        }
+    
+        .p2{
+    
+            font-size: 16px;
+        }
+    
+        .comp{
+            width: 45%
+        }
+        
+    
+        .p1{
+            font-size: 16px;
+        }
+    
+        .h1{
+    
+            font-size: 24px;
+        }
+    
+        .logo{
+            width: 20%
+        }
+    
+        
+    .main{
+    
+        position: absolute;
+        top: 6rem;
+    
+    
+    
+    }
+    
+    .text{
+    
+        width: 36%;
+        
+    }
+    }
+    
+    @media (max-width: 675px){
+    
+       .logo{
+           width: 20%
+       }
+        .text{
+      
+            position: relative;
+            top: 3rem;
+            width: 100%;
+    
+        }
+        .main{
+            display: block;
+        }
+    
+        .comp{
+           position: relative;
+           top: 9rem;
+           left: 4rem;
+           width: 75%;
+        }
+         
+         .btn1{
+    
+          position: relative;
+          top:2rem;
+          left: 9rem;
+         }
+    
+    
+        .p1{
+            font-size: 16px;
+            text-align: center;
+        }
+    
+        .h1{
+    
+            font-size: 20px;
+            text-align: center;
+        }
+    
+        .header{
+            height: 50rem;
+            background-image: url("https://i.ibb.co/j3nRSvR/bg-hero-desktop.png");
+         background-position: top;
+       background-repeat: repeat;
+        }
+    
+        .over{
+            width: 100%;
+            height: 50rem;
+            background-color:#8ce4dc6b;
+        }
+    
+    
+    }
+        
+        @media (max-width: 615px){
+    
+            .logo{
+                width: 20%
+            }
+            .h2{
+    
+                font-size: 24px
+            }
+        
+            .p2{
+        
+                font-size: 16px;
+            }
+        
+            .p1{
+                font-size: 18px;
+            }
+    
+     
+    
+         
+        }
+        
+    
+        @media (max-width: 575px){
+    
+            .logo{
+                width: 20%
+            }
+            .h8{
+    
+                font-size: 22px
+            }
+        
+            .p2{
+        
+                font-size: 16px;
+            }
+        
+            .p1{
+                font-size: 18px;
+            }
+           .f-card{
+    
+            width: 30rem;
+           }
+         
+    
+           .comp{
+            position: relative;
+            top: 10rem;
+            left: 3rem;
+            width: 85%;
+    
+    
+         }
+    
+         .btn1{
+    
+            position: relative;
+            top:2rem;
+            left: 8rem;
+           }
+      
+        }
+    
+        @media(max-width: 515px){
+        
+        .h2{
+    
+            font-size: 18px
+        }
+    
+        .p2{
+    
+            font-size: 14px;
+        }
+    
+        .p1{
+            font-size: 18px;
+        }
+        .comp{
+            position: relative;
+            top: 9rem;
+            left: 3rem;
+            width: 80%;
+    
+    
+         }
+    
+         .btn1{
+    
+            position: relative;
+            top:2rem;
+            left: 6rem;
+           }
+    
+           .main{
+    
+            position: absolute;
+            top: 4rem;
+        
+        
+        
+        }
+    
+        .f-card{
+    
+            width: 25rem;
+           }
+    
+         .footer{
+            padding:  4rem 2rem;
+         }
+        }
+        
+        @media(max-width: 485px){
+    
+    
+            .card-i{
+    
+                width: 49%;
+            }
+    
+            .card1{
+    
+                padding: 1rem;
+            }
+    
+    
+            .h2{
+    
+                font-size: 16px
+            }
+        
+            .p2{
+        
+                font-size: 14px;
+            }
+        
+            .p1{
+                font-size: 18px;
+            }
+    
+    
+            .footer{
+                padding:  4rem 1.5rem;
+             }
+    
+    
+             header{
+                height: 50rem;
+               width: 150%;
+                background-image: url("https://i.ibb.co/j3nRSvR/bg-hero-desktop.png");
+             background-position: top;
+           background-repeat: repeat;
+           background-size: cover;
+            }
+    
+    
+            .over{
+                width: 110%;
+                height: 50rem;
+                background-color:#8ce4dc6b;
+            }
+        }
+        @media(max-width:490px){
+    
+            .footer{
+    
+                height: 100%;
+                width: 109%;
+                color: #fff; 
+               
+             
+               
+            
+                background-color: #24262b;
+            
+            
+            }
+    
+        }
+        @media(max-width:450px){
+    
+            .h2{
+    
+                font-size: 15px
+            }
+        
+            .p2{
+        
+                font-size: 14px;
+            }
+        
+            .p1{
+                font-size: 18px;
+            }
+    
+    
+            .f-card{
+    
+                width: 24rem;
+               }
+    
+    .card1{
+    
+        margin: 0 auto;
+    }
+    
+    
+    
+    .text1{
+    
+        padding: 0 0.5rem;
+    }
+    
+    .row{
+    
+        display: block;
+    }
+    .footer{
+    
+        align-items: center;
+    }
+    .footer-col {
+        text-align: center;
+        margin-right: 0;
+        padding: 0 15px;
+      
+        width: 105%
+    }
+    
+    .footer-col h4{
+        width:100%;
+        text-align: center;
+        padding: 3px 0;
+    }
+    
+    .btn1{
+    
+        position: relative;
+        top:2rem;
+        left: 3rem;
+       }
+    
+       .f-card{
+    
+        margin-right: 2px;
+       }
+    
+      .card{
+        
+            margin-right: 1px;
+        
+      }
+    
+      .text{
+      
+        position: relative;
+        top: 3rem;
+        left: 2rem;
+        width: 100%;
+    
+    }
+    
+    .logo{
+    
+        width: 22%
+    }
+        }
+    
+     @media(max-width:390px){
+        .f-card{
+    
+            margin-left: 1rem;
+            width: 22rem ;
+           }
+     
+           .card{
+               margin-right: 2rem;
+           }
+       
+           .text{
+               
+        position: relative;
+        top: 3rem;
+        left: -0.5rem;
+        width: 100%;
+    
+           }
+    
+           .logo{
+    
+            width: 25%
+        }
+    
+        .btn{
+    
+            MARGIN-LEFT: -8px;
+        }
+        
+        @media(max-width:380){
+    
+            .f-card{
+                width: 8rem;
+                height: 15rem;
+            }
+
+            .main{
+                
+    
+                    position: absolute;
+                    top: 6rem;
+                    left: 5rem;
+                
+                
+                
+                
+            }
+        }
+     }   
